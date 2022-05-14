@@ -1,5 +1,5 @@
 # League-of-Legends-Bot
-A scripe made with AutoHotKey that acts like a bot. The resolution and UI in game needs to be of specific values.
+This is an old script made with AutoHotKey. The resolution and UI in game needs to be of specific values for the script to work.
 
 The script needs to run with Admistrator permissions.
 
